@@ -7,7 +7,7 @@ Before we get into the details of the analysis, let’s go over the schema.
 # Dataset Structure
 
 The dataset contains information from various tables including `website_sessions`, `website_pageviews`,  `orders`,`products`, `order_items` and `order item refunds`. 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/mudit-mishra8/Ecommerce-Analysis/assets/136131406/627101e7-7a21-41f2-9121-f8869d07fa25)
 
 
 
